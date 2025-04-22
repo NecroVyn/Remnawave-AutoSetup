@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #00bcd4;">Remnawave Auto-Installer</h1>
   <p>Professional script for automatic installation of Remnawave panel and node connection on Linux</p>
-  <img src="https://github.com/AsanFillter/Remnawave-AutoSetup/blob/8ebe16c44b64d2e0e7a81c20613a625fad68805e/remnawave_screenshot.png?raw=true" alt="Remnawave Screenshot" style="width: 80%; max-width: 800px; margin: 20px 0;">
+  
   
   <!-- License, Version, and Platform badges -->
   <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
@@ -334,13 +334,4 @@ Contributions are always welcome! Here's how you can help:
 - Improve documentation
 - Review code changes
 
-## Support
-
-[![Watch the tutorial video](https://github.com/AsanFillter/Remnawave-AutoSetup/raw/main/img/thumbnail.jpg)](https://www.youtube.com/watch?v=AM2ppG1kTFI)
-
 If you find this project useful, please consider giving it a star on GitHub!
-
-- **Telegram Channel:** [@AsanFillter](https://t.me/AsanFillter)  
-- **Telegram Group:** [@AsanFillter_Group](https://t.me/asanfillter_group)
-
-For more information and documentation, please visit the [official Remnawave site](https://remna.st/).
